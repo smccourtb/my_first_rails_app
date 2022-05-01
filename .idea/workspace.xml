@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd85afe-5dcf-4c3c-ab93-aff8fdd05fa6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651447651636</updated>
       <workItem from="1651447654151" duration="7000" />
-      <workItem from="1651447675618" duration="605000" />
+      <workItem from="1651447675618" duration="777000" />
     </task>
     <servers />
   </component>
